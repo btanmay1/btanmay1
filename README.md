@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Tanmay 👋
 
-<!--
-**btanmay1/btanmay1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Computer Science @ Thapar Institute  
+💡 Interested in Machine Learning, Data Engineering, and Systems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+
+### 🔹 ETL Pipeline for Data Processing
+- Built an ETL pipeline using Python (Pandas, NumPy)
+- Performed data cleaning, normalization, and transformation
+- Generated structured datasets for analysis
+
+---
+
+## 🛠️ Skills
+- Languages: C++, Python, JavaScript  
+- Technologies: Machine Learning, Data Analysis, ETL Pipelines  
+- Tools: Git, Linux, SQL, Jupyter Notebook  
+
+---
+
+## 📫 Contact
+- Email: Btanmay837@gmail.com
